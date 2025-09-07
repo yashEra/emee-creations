@@ -36,7 +36,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                             <li>
                                                 <div className="working-day">Monday – Sunday:</div>
                                                 <div className="marker"></div>
-                                                <div className="working-hour">2pm – 2pm</div>
+                                                <div className="working-hour">8am – 6pm</div>
                                             </li>
                                             <li>
                                                 <div className="working-day">Sunday:</div>
@@ -110,12 +110,12 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6">
-                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by <a href="https://themeforest.net/user/validthemes/portfolio" target='_blank'>validthemes</a></p>
+                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by <a href="https://emeecreations.com" target='_blank'>emeecreations</a></p>
                             </div>
                             <div className="col-lg-6 text-end">
                                 <ul>
                                     <li>
-                                        <Link href="/faq">Terms</Link>
+                                        <Link href="/services-2">Service</Link>
                                     </li>
                                     <li>
                                         <Link href="/about-us">Privacy</Link>
