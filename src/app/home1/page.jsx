@@ -29,8 +29,8 @@ const Home1 = () => {
                 <TeamStyle1 sectionClass="bg-gray" teamTitle={true} />
                 <ProjectStyle1 />
                 <RequestCallStyle1 />
-                <TestimonialStyle1 />
-                <BlogStyle1 sectionClass="bg-gray" />
+                {/* <TestimonialStyle1 />
+                <BlogStyle1 sectionClass="bg-gray" /> */}
             </LayoutStyle1>
         </>
     );
