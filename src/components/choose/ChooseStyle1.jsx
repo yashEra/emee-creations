@@ -13,7 +13,7 @@ const ChooseStyle1 = () => {
         <div className="shape-left-top">
           <Image src={shape17} alt="Shape" />
         </div>
-        <div className="text-invisible">Consua</div>
+        <div className="text-invisible">Emee</div>
         <div className="container">
           <div className="row">
             <div className="col-lg-6 pr-80 pr-md-15 pr-xs-15">

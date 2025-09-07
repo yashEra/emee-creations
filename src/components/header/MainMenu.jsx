@@ -10,6 +10,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                 </li>
                 <li className="dropdown">
                     {/* <Link href="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>About</Link> */}
+                    
                     <Link href="/about-us" >About</Link>
                     {/* <ul className="dropdown-menu"> */}
                         {/* <li><Link href="/about-us">About Us</Link></li> */}
