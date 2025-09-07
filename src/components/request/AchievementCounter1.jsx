@@ -28,7 +28,7 @@ const AchievementCounter1 = () => {
                                 <div className="timer"><CountUp end={33} enableScrollSpy /></div>
                                 <div className="operator">+ Years</div>
                             </div>
-                            <span className="medium">Business Excellence Experience achieved</span>
+                            <span className="medium">Business Excellence Experience Achieved</span>
                         </div>
                     </li>
                 </ul>
