@@ -7,7 +7,7 @@ const SingleServices1 = ({ data }) => {
     return (
         <>
             <div className="services-style-one">
-                <i className={icon}></i>
+                {/* <i className={icon}></i> */}
                 <h4><Link href={`/services-details/${id}`}>{title}</Link></h4>
                 <p>{text}</p>
             </div>

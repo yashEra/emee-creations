@@ -1,110 +1,112 @@
 [
-    {
+  {
+    "id": 1,
+    "tabClass": "show active",
+    "tabId": "tab1",
+    "ariaLabelled": "nav-id-1",
+    "tabData": [
+      {
         "id": 1,
-        "tabClass": "show active",
-        "tabId": "tab1",
-        "ariaLabelled": "nav-id-1",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-personal",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-group",
-                "title": "Consultancy & Advice",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-solution-5",
-                "title": "Business Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    },
-    {
+        "title": "LED",
+        "icon": "flaticon-led",
+        "text": "Modern illuminated LED signs built for durability and high visibility in any environment."
+      },
+      {
         "id": 2,
-        "tabClass": "",
-        "tabId": "tab2",
-        "ariaLabelled": "nav-id-2",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-business-trip",
-                "title": "Strategy & Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-online-store",
-                "title": "Online Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    },
-    {
+        "title": "Neon",
+        "icon": "flaticon-neon",
+        "text": "Classic neon designs with vibrant glow, adding style and character to your brand presence."
+      },
+      {
         "id": 3,
-        "tabClass": "",
-        "tabId": "tab3",
-        "ariaLabelled": "nav-id-3",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-budget",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-money-1",
-                "title": "Mutual Funds",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-world-globe",
-                "title": "Global Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    }
+        "title": "Pylon",
+        "icon": "flaticon-pylon",
+        "text": "Tall freestanding pylon signs that stand out and direct attention from long distances."
+      },
+      {
+        "id": 4,
+        "title": "Fascia",
+        "icon": "flaticon-fascia",
+        "text": "Fascia signage designed to align with storefronts and building exteriors for strong branding."
+      },
+      {
+        "id": 5,
+        "title": "Monolith",
+        "icon": "flaticon-monolith",
+        "text": "Solid and modern monolith structures creating bold, professional statements for businesses."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tabClass": "",
+    "tabId": "tab2",
+    "ariaLabelled": "nav-id-2",
+    "tabData": [
+      {
+        "id": 1,
+        "animationDelay": 0,
+        "icon": "flaticon-business-trip",
+        "title": "Strategy & Planning",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 2,
+        "animationDelay": "",
+        "icon": "flaticon-online-store",
+        "title": "Online Business",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 3,
+        "animationDelay": "",
+        "icon": "flaticon-funds",
+        "title": "Saving & Investments",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 4,
+        "animationDelay": "",
+        "icon": "flaticon-career",
+        "title": "Markets Research",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tabClass": "",
+    "tabId": "tab3",
+    "ariaLabelled": "nav-id-3",
+    "tabData": [
+      {
+        "id": 1,
+        "animationDelay": 0,
+        "icon": "flaticon-budget",
+        "title": "Investment Planning",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 2,
+        "animationDelay": "",
+        "icon": "flaticon-money-1",
+        "title": "Mutual Funds",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 3,
+        "animationDelay": "",
+        "icon": "flaticon-funds",
+        "title": "Saving & Investments",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      },
+      {
+        "id": 4,
+        "animationDelay": "",
+        "icon": "flaticon-world-globe",
+        "title": "Global Business",
+        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+      }
+    ]
+  }
 ]

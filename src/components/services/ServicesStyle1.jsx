@@ -20,16 +20,16 @@ const ServicesStyle1 = () => {
                                 <h2>Excellent service and support for you</h2>
                                 <div className="nav nav-tabs service-tab-navs" id="nav-tab" role="tablist">
                                     <button className="nav-link active" id="nav-id-1" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">
-                                        <i className="flaticon-portfolio"></i>
-                                        Consulting services
+                                        <i className="flaticon-presentation"></i>
+                                        Signage Solutions
                                     </button>
                                     <button className="nav-link" id="nav-id-2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">
-                                        <i className="flaticon-megaphone"></i>
-                                        Marketing services
+                                        <i className="flaticon-marketing"></i>
+                                        Branding Solutions
                                     </button>
                                     <button className="nav-link" id="nav-id-3" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab" aria-controls="tab3" aria-selected="false">
-                                        <i className="flaticon-save-money"></i>
-                                        Banking services
+                                        <i className="flaticon-start-up"></i>
+                                        Interior & Exterior Designing
                                     </button>
                                 </div>
                             </div>
