@@ -43,35 +43,32 @@
     "tabId": "tab2",
     "ariaLabelled": "nav-id-2",
     "tabData": [
-      {
-        "id": 1,
-        "animationDelay": 0,
-        "icon": "flaticon-business-trip",
-        "title": "Strategy & Planning",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-      },
-      {
-        "id": 2,
-        "animationDelay": "",
-        "icon": "flaticon-online-store",
-        "title": "Online Business",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-      },
-      {
-        "id": 3,
-        "animationDelay": "",
-        "icon": "flaticon-funds",
-        "title": "Saving & Investments",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-      },
-      {
-        "id": 4,
-        "animationDelay": "",
-        "icon": "flaticon-career",
-        "title": "Markets Research",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-      }
-    ]
+  {
+    "id": 1,
+    "title": "Wall Branding",
+    "icon": "flaticon-wall",
+    "text": "Creative wall branding solutions that turn spaces into bold visual experiences."
+  },
+  {
+    "id": 2,
+    "title": "Vehicle Branding",
+    "icon": "flaticon-vehicle",
+    "text": "Mobile advertising through vehicle wraps and decals that promote your brand everywhere."
+  },
+  {
+    "id": 3,
+    "title": "Window Graphics",
+    "icon": "flaticon-window",
+    "text": "Striking window graphics designed for promotions, privacy, and enhanced visibility."
+  },
+  {
+    "id": 4,
+    "title": "Hoardings",
+    "icon": "flaticon-hoarding",
+    "text": "Large outdoor hoardings delivering maximum exposure and powerful brand presence."
+  }
+]
+
   },
   {
     "id": 3,
