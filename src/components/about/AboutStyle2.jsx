@@ -9,7 +9,7 @@ const AboutStyle2 = ({ sectionClass }) => {
     return (
         <>
             <div className={`about-style-two-area overflow-hidden bg-contain default-padding ${sectionClass ? sectionClass : ''}`}
-                style={{ backgroundImage: `url(/assets/img/shape/29.png)` }}>
+                style={{ backgroundImage: `url(/assets/img/banner/29.png)` }}>
                 <div className="container">
                     <div className="row align-center">
 
