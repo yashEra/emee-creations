@@ -43,32 +43,31 @@
     "tabId": "tab2",
     "ariaLabelled": "nav-id-2",
     "tabData": [
-  {
-    "id": 1,
-    "title": "Wall Branding",
-    "icon": "flaticon-wall",
-    "text": "Creative wall branding solutions that turn spaces into bold visual experiences."
-  },
-  {
-    "id": 2,
-    "title": "Vehicle Branding",
-    "icon": "flaticon-vehicle",
-    "text": "Mobile advertising through vehicle wraps and decals that promote your brand everywhere."
-  },
-  {
-    "id": 3,
-    "title": "Window Graphics",
-    "icon": "flaticon-window",
-    "text": "Striking window graphics designed for promotions, privacy, and enhanced visibility."
-  },
-  {
-    "id": 4,
-    "title": "Hoardings",
-    "icon": "flaticon-hoarding",
-    "text": "Large outdoor hoardings delivering maximum exposure and powerful brand presence."
-  }
-]
-
+      {
+        "id": 1,
+        "title": "Wall Branding",
+        "icon": "flaticon-wall",
+        "text": "Creative wall branding solutions that turn spaces into bold visual experiences."
+      },
+      {
+        "id": 2,
+        "title": "Vehicle Branding",
+        "icon": "flaticon-vehicle",
+        "text": "Mobile advertising through vehicle wraps and decals that promote your brand everywhere."
+      },
+      {
+        "id": 3,
+        "title": "Window Graphics",
+        "icon": "flaticon-window",
+        "text": "Striking window graphics designed for promotions, privacy, and enhanced visibility."
+      },
+      {
+        "id": 4,
+        "title": "Hoardings",
+        "icon": "flaticon-hoarding",
+        "text": "Large outdoor hoardings delivering maximum exposure and powerful brand presence."
+      }
+    ]
   },
   {
     "id": 3,
@@ -78,31 +77,27 @@
     "tabData": [
       {
         "id": 1,
-        "animationDelay": 0,
-        "icon": "flaticon-budget",
-        "title": "Investment Planning",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+        "title": "Office Interiors",
+        "icon": "flaticon-office",
+        "text": "Functional and stylish office interiors designed to enhance productivity and aesthetics."
       },
       {
         "id": 2,
-        "animationDelay": "",
-        "icon": "flaticon-money-1",
-        "title": "Mutual Funds",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+        "title": "Retail & Showroom Interiors",
+        "icon": "flaticon-showroom",
+        "text": "Retail and showroom spaces created to attract customers and highlight products effectively."
       },
       {
         "id": 3,
-        "animationDelay": "",
-        "icon": "flaticon-funds",
-        "title": "Saving & Investments",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+        "title": "Exterior Facade Designing",
+        "icon": "flaticon-facade",
+        "text": "Modern and striking exterior facades that strengthen your brand image and curb appeal."
       },
       {
         "id": 4,
-        "animationDelay": "",
-        "icon": "flaticon-world-globe",
-        "title": "Global Business",
-        "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+        "title": "Landscape & Outdoor Designing",
+        "icon": "flaticon-landscape",
+        "text": "Outdoor and landscape designs that create welcoming and visually appealing environments."
       }
     ]
   }
