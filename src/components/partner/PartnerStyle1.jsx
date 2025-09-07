@@ -15,8 +15,8 @@ const PartnerStyle1 = ({ sectionClass }) => {
                     <div className="row align-center">
                         <div className="col-lg-5">
                             <div className="partner-map" style={{ backgroundImage: `url(/assets/img/shape/map.png)` }}>
-                                <h2 className="mask-text" style={{ backgroundImage: `url(/assets/img/banner/10.jpg)` }}>80</h2>
-                                <h4>Partners in world wide</h4>
+                                <h2 className="mask-text" style={{ backgroundImage: `url(/assets/img/banner/1.webp)` }}>50</h2>
+                                <h4>Partners in island wide</h4>
                             </div>
                         </div>
                         <div className="col-lg-6 offset-lg-1">
