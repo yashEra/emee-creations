@@ -5,16 +5,8 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
     return (
         <>
             <ul className={`nav navbar-nav ${navbarPlacement}`} data-in="fadeInDown" data-out="fadeOutUp">
-                <li className="dropdown">
-                    <Link href="#" className="dropdown-toggle active" data-toggle="dropdown" onClick={toggleSubMenu}>Home</Link>
-                    <ul className="dropdown-menu">
-                        <li><Link href="/">Consulting Business</Link></li>
-                        <li><Link href="/home2">Corporate Business</Link></li>
-                        <li><Link href="/marketing-agency">Marketing Agency</Link></li>
-                        <li><Link href="/insurance">Insurance</Link></li>
-                        <li><Link href="/solar-energy">Solar Energy</Link></li>
-                        <li><Link href="/software-landing">Software Landing</Link></li>
-                    </ul>
+                <li>
+                    <Link href="/" className="active">Home</Link>
                 </li>
                 <li className="dropdown">
                     <Link href="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Pages</Link>
