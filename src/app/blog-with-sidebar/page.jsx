@@ -3,7 +3,7 @@ import BlogWithSidebarContent from "@/components/blog/BlogWithSidebarContent";
 import React from "react";
 
 export const metadata = {
-  title: "emee - Consulting Business - Blog With Sidebar",
+  title: "emee - Interior & Exterior Designing - Blog With Sidebar",
 };
 
 const BlogWithSidebarPage = () => {

@@ -12,7 +12,7 @@ import TestimonialStyle1 from "@/components/testimonial/TestimonialStyle1";
 import React from "react";
 
 export const metadata = {
-  title: "emee - Consulting Business - Software Landing",
+  title: "emee - Interior & Exterior Designing - Software Landing",
 };
 
 const SoftwareLanding = () => {

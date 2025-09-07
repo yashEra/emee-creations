@@ -12,7 +12,7 @@ import TestimonialStyle1 from "@/components/testimonial/TestimonialStyle1";
 import React from "react";
 
 export const metadata = {
-  title: "emee - Consulting Business - Insurance",
+  title: "emee - Interior & Exterior Designing - Insurance",
 };
 
 const Insurance = () => {

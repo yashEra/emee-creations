@@ -4,7 +4,7 @@ import React from "react";
 import blogData from "@/assets/jsonData/blog/BlogData.json";
 
 export const metadata = {
-  title: "emee - Consulting Business - Blog Single",
+  title: "emee - Interior & Exterior Designing - Blog Single",
 };
 
 const BlogSingle = ({ params }) => {

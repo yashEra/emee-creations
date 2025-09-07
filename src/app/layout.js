@@ -25,7 +25,7 @@ const manrope = Manrope({ subsets: ["latin"] });
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "emee - Consulting Business React - NextJS Template",
+  title: "emee - Interior & Exterior Designing React - NextJS Template",
 };
 
 export default function RootLayout({ children }) {
