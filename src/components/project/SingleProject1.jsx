@@ -20,7 +20,8 @@ const SingleProject1 = ({ project }) => {
                                 <span>{tag}</span>
                                 <h3><Link href="/project">{title}</Link></h3>
                                 <p>{text}</p>
-                                <Link className="btn-animation dark mt-10" href="project"><i className="fas fa-arrow-right"></i> <span>{btnText}</span></Link>
+                                <Link className="btn-animation dark mt-10" href=""><i className="fas fa-arrow-right"></i> <span>{btnText}</span></Link>
+                                {/* <Link className="btn-animation dark mt-10" href=""><i className="fas fa-arrow-right"></i> <span>{btnText}</span></Link> */}
                             </div>
                         </div>
                     </div>
