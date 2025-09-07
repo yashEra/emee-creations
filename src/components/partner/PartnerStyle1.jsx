@@ -2,9 +2,9 @@ import React from 'react';
 import logo1 from '@/assets/img/logo/1.png'
 import logo2 from '@/assets/img/logo/2.png'
 import logo4 from '@/assets/img/logo/3.jpg'
-import logo5 from '@/assets/img/logo/5.jpg'
-import logo6 from '@/assets/img/logo/6.jpg'
-import logo7 from '@/assets/img/logo/6.png'
+import logo5 from '@/assets/img/logo/4.jpg'
+import logo6 from '@/assets/img/logo/5.jpg'
+import logo7 from '@/assets/img/logo/'
 import Image from 'next/image';
 
 const PartnerStyle1 = ({ sectionClass }) => {
