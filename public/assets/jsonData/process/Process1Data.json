@@ -1,26 +1,26 @@
 [
-    {
-        "id": "1",
-        "thumb": "3.jpg",
-        "activeClass": "active",
-        "steps": "01",
-        "title": "Differentiate from the competition",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
-    },
-    {
-        "id": "2",
-        "thumb": "6.jpg",
-        "activeClass": "",
-        "steps": "02",
-        "title": "Target the right people effectively",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
-    },
-    {
-        "id": "3",
-        "thumb": "5.jpg",
-        "activeClass": "",
-        "steps": "03",
-        "title": "Communicate your story consistently",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
-    }
+  {
+    "id": "1",
+    "thumb": "3.jpg",
+    "activeClass": "active",
+    "steps": "01",
+    "title": "Differentiate from the Competition",
+    "text": "Create unique solutions and designs that make your brand stand out in the market."
+  },
+  {
+    "id": "2",
+    "thumb": "6.jpg",
+    "activeClass": "",
+    "steps": "02",
+    "title": "Target the Right People Effectively",
+    "text": "Focus on your core audience to ensure your message reaches the right customers."
+  },
+  {
+    "id": "3",
+    "thumb": "5.jpg",
+    "activeClass": "",
+    "steps": "03",
+    "title": "Communicate Your Story Consistently",
+    "text": "Share your brand’s vision and services clearly across all channels for maximum impact."
+  }
 ]
