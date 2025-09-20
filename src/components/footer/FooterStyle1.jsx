@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import shape7 from "@/assets/img/shape/7.png";
 import shape9 from "@/assets/img/shape/9.png";
-import logoLight from "@/assets/img/logo-light.png";
+import logoLight from "@/assets/img/logo.png";
 import Link from "next/link";
 import SocialShare from "../utilities/SocialShare";
 import FooterNewsLetter from "../form/FooterNewsLetter";
@@ -36,8 +36,8 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                     )}
                   </Link>
                   <p>
-                    Excellence decisively nay man twins impression maximum
-                    contrasted remarkably is perfect.
+                    Building trust since 1983 with creativity, quality, and
+                    lasting partnerships.
                   </p>
                   <div className="opening-hours">
                     <h5>Opening Hours</h5>
@@ -67,40 +67,61 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                       <Link href="/contact-us">Help Center</Link>
                     </li>
                     <li>
-                      <Link href="/about-us">Career</Link>
-                    </li>
-                    <li>
-                      <Link href="/pricing">Plans & Pricing</Link>
-                    </li>
-                    <li>
                       <Link href="/contact-us">Contact</Link>
                     </li>
                   </ul>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 footer-item">
+              <div className="col-lg-6 col-md-6 footer-item">
                 <div className="f-item link">
                   <h4 className="widget-title">Our Services</h4>
-                  <ul>
-                    <li>
-                      <Link href="/services-details/1">Manage investment</Link>
-                    </li>
-                    <li>
-                      <Link href="/services-details/1">Business planning</Link>
-                    </li>
-                    <li>
-                      <Link href="/services-details/1">Financial advices</Link>
-                    </li>
-                    <li>
-                      <Link href="/services-details/1">Tax strategy</Link>
-                    </li>
-                    <li>
-                      <Link href="/services-details/1">Insurance strategy</Link>
-                    </li>
-                  </ul>
+                  <div className="row">
+                    <div className="col-6">
+                      <ul>
+                        <li>
+                          <Link href="/services-details/1">
+                            Interior Designers
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/services-details/2">
+                            Interior Decorating Contractors
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/services-details/3">
+                            Architectural Aluminum
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/services-details/4">Iron Structure</Link>
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="col-6">
+                      <ul>
+                        <li>
+                          <Link href="/services-details/5">
+                            Composite Panel Fabricators
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/services-details/6">
+                            General Engineering Contractors
+                          </Link>
+                        </li>
+                        <li>
+                          <Link href="/services-details/7">
+                            All Kinds of Sign Board Manufacturers
+                          </Link>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
-              <div className="col-lg-4 col-md-6 footer-item">
+
+              {/* <div className="col-lg-4 col-md-6 footer-item">
                 <h4 className="widget-title">Newsletter</h4>
                 <p>
                   Join our subscribers list to get the latest <br /> news and
@@ -112,7 +133,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                 <ul className="footer-social">
                   <SocialShare />
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

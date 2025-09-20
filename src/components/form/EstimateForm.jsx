@@ -50,7 +50,7 @@ const EstimateForm = () => {
                 className="form-control"
                 id="phone"
                 name="phone"
-                placeholder="+4733378901"
+                placeholder=" +94 77 011 5710"
                 type="text"
                 required
                 autoComplete="off"

@@ -30,7 +30,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                     </ul> */}
                 </li>
                 <li>
-                    <Link href="/services-2">Services</Link>
+                    <Link href="/services">Services</Link>
                     {/* <ul className="dropdown-menu">
                         <li><Link href="/services">Services Version One</Link></li>
                         <li><Link href="/services-2">Services Version Two</Link></li>

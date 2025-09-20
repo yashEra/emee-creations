@@ -14,7 +14,7 @@ const HeaderTopStyle1 = () => {
                   road Delkada Nugegoda
                 </li>
                 <li>
-                  <a href="tel:+4733378901">
+                  <a href="tel: +94 77 011 5710">
                     <i className="fas fa-phone-alt"></i> +94 77 011 5710
                   </a>
                 </li>
