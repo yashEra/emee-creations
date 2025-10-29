@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "thumb": "5.jpg",
+        "thumb": "4axis.jpg",
         "thumbFull": "5-full.jpg",
         "activeClass": "active",
-        "tag": "Consulting, Recruitment",
-        "title": "Coping Under the Current Climate",
+        "tag": "Modern, Interior",
+        "title": "Office Interior Design",
         "projectData": [
             {
                 "id": 1,
@@ -31,7 +31,7 @@
     },
     {
         "id": 2,
-        "thumb": "3.jpg",
+        "thumb": "mobile-shop.jpg",
         "thumbFull": "3-full.jpg",
         "activeClass": "",
         "tag": "Consulting, Recruitment",
@@ -61,7 +61,7 @@
     },
     {
         "id": 3,
-        "thumb": "2.jpg",
+        "thumb": "bookshop.jpg",
         "thumbFull": "2-full.jpg",
         "activeClass": "",
         "tag": "Consulting, Recruitment",
@@ -91,7 +91,7 @@
     },
     {
         "id": 4,
-        "thumb": "6.jpg",
+        "thumb": "hotel.jpg",
         "thumbFull": "6-full.jpg",
         "activeClass": "",
         "tag": "Consulting, Recruitment",

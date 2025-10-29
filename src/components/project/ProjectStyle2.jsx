@@ -21,11 +21,11 @@ const ProjectStyle2 = ({ projectTitle }) => {
                                 </div>
                                 <div className="row">
                                     <div className="col-lg-12 text-center">
-                                        <div className="load-more-info text-center mt-60">
+                                        {/* <div className="load-more-info text-center mt-60">
                                             <p>
                                                 Are you interested to show more portfolios? <Link href="#" scroll={false}>Load More</Link>
                                             </p>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>

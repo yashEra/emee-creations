@@ -37,7 +37,7 @@ const IsotopeGallery = () => {
                 <div className={`gallery-item ${item.activeClass}`} key={item.id}>
                     <div className="gallery-style-two">
                         <Link href={`/project-details/${item.id}`}>
-                            <Image src={`/assets/img/gallery/${item.thumb}`} width={800} height={900} alt="Thumb" onLoad={handleImageLoad} />
+                            <Image src={`/assets/img/projects/${item.thumb}`} width={800} height={900} alt="Thumb" onLoad={handleImageLoad} />
                         </Link>
                         <div className="shape">
                             <Link href={`/project-details/${item.id}`}>
@@ -47,7 +47,7 @@ const IsotopeGallery = () => {
                         <div className="overlay">
                             <div className="content">
                                 <span>{item.tag}</span>
-                                <h4><Link href={`/project-details/${item.id}`}>{item.title}</Link></h4>
+                                {/* <h4><Link href={`/project-details/${item.id}`}>{item.title}</Link></h4> */}
                             </div>
                         </div>
                     </div>
