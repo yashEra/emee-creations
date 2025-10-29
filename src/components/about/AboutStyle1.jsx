@@ -40,7 +40,7 @@ const AboutStyle1 = () => {
                   <span>CEO & Founder</span>
                 </div>
                 <div className="right-info">
-                  <Image src={signatureThumb} alt="Image Not Found" />
+                  {/* <Image src={signatureThumb} alt="Image Not Found" /> */}
                 </div>
               </div>
             </div>
