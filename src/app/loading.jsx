@@ -9,22 +9,16 @@ const Loading = () => {
             <div className="spinner"></div>
             <div className="txt-loading">
               <span data-text-preloader="C" className="letters-loading">
-                C
+                E
               </span>
               <span data-text-preloader="O" className="letters-loading">
-                O
+                M
               </span>
               <span data-text-preloader="N" className="letters-loading">
-                N
+                E
               </span>
               <span data-text-preloader="S" className="letters-loading">
-                S
-              </span>
-              <span data-text-preloader="U" className="letters-loading">
-                U
-              </span>
-              <span data-text-preloader="A" className="letters-loading">
-                A
+                E
               </span>
             </div>
           </div>
@@ -39,7 +33,7 @@ const Loading = () => {
               <div className="col-3 loader-section section-right">
                 <div className="bg"></div>
               </div>
-              <div className="col-3 loader-section section-right">
+              <div className="col-3 loader-section section-rix ght">
                 <div className="bg"></div>
               </div>
             </div>
